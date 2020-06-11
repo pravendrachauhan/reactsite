@@ -2,7 +2,7 @@
   "name": "my-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pravendrachauhan.github.io/reactsite",
+  "homepage": "http://pravendrachauhan.github.io",
   "proxy": "http://localhost:8000/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
